@@ -6,7 +6,7 @@
 
 Full-stack products, computer vision, autonomous planning, and on-chain markets — designed, shipped, and operated end to end.
 
-[Email](mailto:andrecain111@gmail.com) · [GitHub](https://github.com/painbot-coin) · [Earlier work](https://github.com/bitsgorilla) · [Huepot](https://github.com/painbot-coin/huepot)
+[Email](mailto:andrecain111@gmail.com) · [GitHub](https://github.com/painbot-coin) · [Huepot](https://github.com/painbot-coin/huepot)
 
 </div>
 
@@ -18,7 +18,7 @@ I build production software with the same bar I use for research: clear architec
 
 Work spans **web products**, **machine learning tooling**, **trading infrastructure**, and **interactive media**. The through-line is ownership — from the first sketch to a running service.
 
-This account is the current home. Earlier public work was on [bitsgorilla](https://github.com/bitsgorilla); those repos are being brought here with their original git history.
+This account is the current home.
 
 ## Featured work
 
