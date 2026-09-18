@@ -16,7 +16,6 @@ Remote worldwide. Contract, full-time, or freelance.
 
 I ship production web products end to end: Next.js/React front ends, Python APIs, auth, payments, and deploys.
 
-Earlier public work also lives on [bitsgorilla](https://github.com/bitsgorilla). This account is the current home.
 
 ## Featured work
 
