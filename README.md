@@ -6,7 +6,7 @@
 
 Full-stack products, computer vision, autonomous planning, and on-chain markets — designed, shipped, and operated end to end.
 
-[Email](mailto:andrecain111@gmail.com) · [Huepot](https://github.com/painbot-coin/huepot) · [CV Helper](https://github.com/painbot-coin/cv-helper) · [BitWinner](https://github.com/painbot-coin/bitwinner)
+[Email](mailto:andrecain111@gmail.com) · [GitHub](https://github.com/painbot-coin) · [Earlier work](https://github.com/bitsgorilla) · [Huepot](https://github.com/painbot-coin/huepot)
 
 </div>
 
@@ -18,16 +18,20 @@ I build production software with the same bar I use for research: clear architec
 
 Work spans **web products**, **machine learning tooling**, **trading infrastructure**, and **interactive media**. The through-line is ownership — from the first sketch to a running service.
 
+This account is the current home. Earlier public work was on [bitsgorilla](https://github.com/bitsgorilla); those repos are being brought here with their original git history.
+
 ## Featured work
 
 | Product | What it is |
 | --- | --- |
 | [**Huepot**](https://github.com/painbot-coin/huepot) | Live color-pot game: rooms, USDT deposits, fairness, and social wire |
 | [**BitWinner**](https://github.com/painbot-coin/bitwinner) | Multi-network USDT racing book with auth, deposits, and withdrawals |
+| [**Grail**](https://github.com/painbot-coin/grail_frontend) | Live product site: pricing, products, and Google sign-in — [demo](https://grail-frontend.vercel.app) |
+| [**E-commerce demo**](https://github.com/painbot-coin/ecommerce-demo) | Custom storefront work imported from bitsgorilla |
+| [**Trading admin**](https://github.com/painbot-coin/trading_admin) | Next.js admin console + [frontend](https://github.com/painbot-coin/trading_frontend_v2) |
 | [**CV Helper**](https://github.com/painbot-coin/cv-helper) | Computer-vision studio for labeling, crop, rotate, and composition |
 | [**Drone Project**](https://github.com/painbot-coin/drone-project) | Hybrid A* + RL planner for dynamic, battery-aware drone routes |
 | [**Talking Avatar**](https://github.com/painbot-coin/talking-avatar) | Face + wardrobe + audio pipeline for lip-synced avatar video |
-| [**StormEye Arch**](https://github.com/painbot-coin/stormeye-arch) | Architecture studio site — portfolio, team, and contact |
 
 ## Practice areas
 
