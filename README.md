@@ -1,6 +1,59 @@
-### Hi, I am crazy pain
+<div align="center">
 
-I build software, learn in public, and keep a simple daily work log.
+# crazy pain
 
-- Journal: [daily-log](https://github.com/painbot-coin/daily-log)
-- Email: andrecain111@gmail.com
+**Software engineer · product builder · research systems**
+
+Full-stack products, computer vision, autonomous planning, and on-chain markets — designed, shipped, and operated end to end.
+
+[Email](mailto:andrecain111@gmail.com) · [Huepot](https://github.com/painbot-coin/huepot) · [CV Helper](https://github.com/painbot-coin/cv-helper) · [Journal](https://github.com/painbot-coin/daily-log)
+
+</div>
+
+---
+
+## Overview
+
+I build production software with the same bar I use for research: clear architecture, tight feedback loops, and systems that hold up under real users and real money.
+
+Work spans **web products**, **machine learning tooling**, **trading infrastructure**, and **interactive media**. The through-line is ownership — from the first sketch to a running service.
+
+## Featured work
+
+| Product | What it is |
+| --- | --- |
+| [**Huepot**](https://github.com/painbot-coin/huepot) | Live color-pot game: rooms, USDT deposits, fairness, and social wire |
+| [**BitWinner**](https://github.com/painbot-coin/bitwinner) | Multi-network USDT racing book with auth, deposits, and withdrawals |
+| [**CV Helper**](https://github.com/painbot-coin/cv-helper) | Computer-vision studio for labeling, crop, rotate, and composition |
+| [**Drone Project**](https://github.com/painbot-coin/drone-project) | Hybrid A* + RL planner for dynamic, battery-aware drone routes |
+| [**Talking Avatar**](https://github.com/painbot-coin/talking-avatar) | Face + wardrobe + audio pipeline for lip-synced avatar video |
+| [**SN79**](https://github.com/painbot-coin/sn-79) | Bittensor market-research miner: Avellaneda–Stoikov live agent |
+
+## Practice areas
+
+- **Product & platforms** — Next.js, Vue, real-time rooms, staff consoles, payments
+- **Vision & media** — annotation tools, pose data, talking-head and lip-sync stacks
+- **Autonomy & ML** — path planning, preference models, experiment sandboxes
+- **Markets** — on-chain deposits, inventory market-making, subnet operations
+- **Delivery** — Windows-to-VPS deploys, hardened configs, operational logs
+
+## Selected stack
+
+`TypeScript` `Python` `Next.js` `Vue` `FastAPI` `Prisma` `PostgreSQL` `MongoDB`  
+`PyTorch` `OpenCV` `Solidity` `Bittensor` `BNB Chain` `USDT` `Docker`
+
+## Operating standard
+
+- Ship the smallest complete slice, then tighten it.
+- Prefer measurable systems over slides.
+- Keep a written trail of the work — see [daily-log](https://github.com/painbot-coin/daily-log).
+
+---
+
+<div align="center">
+
+**Available for serious product, research, and market-systems work.**
+
+[andrecain111@gmail.com](mailto:andrecain111@gmail.com)
+
+</div>
