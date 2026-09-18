@@ -6,7 +6,7 @@
 
 Full-stack products, computer vision, autonomous planning, and on-chain markets — designed, shipped, and operated end to end.
 
-[Email](mailto:andrecain111@gmail.com) · [Huepot](https://github.com/painbot-coin/huepot) · [CV Helper](https://github.com/painbot-coin/cv-helper) · [Journal](https://github.com/painbot-coin/daily-log)
+[Email](mailto:andrecain111@gmail.com) · [Huepot](https://github.com/painbot-coin/huepot) · [CV Helper](https://github.com/painbot-coin/cv-helper) · [BitWinner](https://github.com/painbot-coin/bitwinner)
 
 </div>
 
@@ -27,7 +27,7 @@ Work spans **web products**, **machine learning tooling**, **trading infrastruct
 | [**CV Helper**](https://github.com/painbot-coin/cv-helper) | Computer-vision studio for labeling, crop, rotate, and composition |
 | [**Drone Project**](https://github.com/painbot-coin/drone-project) | Hybrid A* + RL planner for dynamic, battery-aware drone routes |
 | [**Talking Avatar**](https://github.com/painbot-coin/talking-avatar) | Face + wardrobe + audio pipeline for lip-synced avatar video |
-| [**SN79**](https://github.com/painbot-coin/sn-79) | Bittensor market-research miner: Avellaneda–Stoikov live agent |
+| [**StormEye Arch**](https://github.com/painbot-coin/stormeye-arch) | Architecture studio site — portfolio, team, and contact |
 
 ## Practice areas
 
@@ -46,7 +46,7 @@ Work spans **web products**, **machine learning tooling**, **trading infrastruct
 
 - Ship the smallest complete slice, then tighten it.
 - Prefer measurable systems over slides.
-- Keep a written trail of the work — see [daily-log](https://github.com/painbot-coin/daily-log).
+- Keep a written trail of the work.
 
 ---
 
